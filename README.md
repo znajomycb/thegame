@@ -1,2 +1,2 @@
-# thegame
-Source code for "The Project Game" Course project for Software Engineering 2, lab group 5, team 2
+Desktop based real-time board game played by two competing teams of cooperating players. It is a
+client-server multiplayer game with two-dimensional graphics.
